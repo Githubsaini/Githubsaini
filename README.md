@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Githubsaini
-- 👀 I’m interested in solving llogical problems
+- 👀 I’m interested in solving logical problems
 - 🌱 I’m currently learning 3rd year in B.tech Course(IT)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
